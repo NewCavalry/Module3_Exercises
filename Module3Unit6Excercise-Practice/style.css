@@ -1,0 +1,30 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    background-color: #f5ebe0;
+}
+/* -----------This is the Heading Font__________ */
+h1 {
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 64px;
+    text-align: center;
+}
+
+h2 {
+    font-family: Open Sans;
+    color: #1d3557;
+}
+/*-----------------------Script Font-----------------------  */
+h3 {
+    font-family: 'Mrs Saint Delafield', cursive;
+    font-size: 48px;
+}
+
+/*----------------------Try Footer-------------------------------  */
+footer {
+  text-align: right;
+  padding: 20px;
+  background-color: #f07746;
+  color: black;
+}
